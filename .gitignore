@@ -1,0 +1,9 @@
+# venv関連は無視する
+bin/
+etc/
+include/
+lib/
+share/
+
+# jupyter notebookの状態保存用データは無視する
+notebook/.ipynb_checkpoints/
